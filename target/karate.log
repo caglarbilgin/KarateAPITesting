@@ -1,0 +1,4 @@
+09:48:42.263 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.demo.test
+09:48:42.395 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/sahabt/Desktop/apiTesting/karateDemo/target/test-classes/examples/demo/demo.feature
+09:48:43.201 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+09:48:44.854 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1492
