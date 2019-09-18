@@ -2,3 +2,19 @@
 09:48:42.395 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/sahabt/Desktop/apiTesting/karateDemo/target/test-classes/examples/demo/demo.feature
 09:48:43.201 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
 09:48:44.854 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1492
+09:54:47.059 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.demo.test
+09:54:47.169 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/sahabt/Desktop/apiTesting/karateDemo/target/test-classes/examples/demo/demo.feature
+09:54:47.926 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+09:54:49.014 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 917
+09:54:49.113 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+09:56:21.304 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.demo.test
+09:56:21.414 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/sahabt/Desktop/apiTesting/karateDemo/target/test-classes/examples/demo/demo.feature
+09:56:22.077 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+09:56:23.293 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1055
+09:56:23.399 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+09:57:44.241 [main] DEBUG c.i.karate.cucumber.CucumberRunner - init test class: class examples.demo.test
+09:57:44.352 [main] DEBUG c.i.karate.cucumber.CucumberRunner - loading feature: /Users/sahabt/Desktop/apiTesting/karateDemo/target/test-classes/examples/demo/demo.feature
+09:57:45.023 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+09:57:46.259 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 1072
+09:57:46.359 [main] INFO  com.intuit.karate.ScriptBridge - karate.env system property was: null 
+09:57:47.303 [main] DEBUG com.intuit.karate.StepDefs - response time in milliseconds: 936
